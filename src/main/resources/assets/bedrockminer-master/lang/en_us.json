@@ -1,0 +1,17 @@
+{
+  "key.category.bedrockminer-master.bedrockminer": "§5[BedrockMiner]",
+  "key.bedrockminer-master.toggle_miner": "BedrockMiner",
+
+  "bedrockminer-master.msg.toggle_on": "§5[BedrockMiner]§f Toggle bedrock miner on",
+  "bedrockminer-master.msg.toggle_off": "§5[BedrockMiner]§f Toggle bedrock miner off",
+
+  "bedrockminer-master.msg.target_added": "§5[BedrockMiner]§f Added %s to target block list",
+  "bedrockminer-master.msg.target_removed": "§5[BedrockMiner]§f Removed %s from target block list",
+
+  "bedrockminer-master.msg.no_piston_location": "§5[BedrockMiner]§f Couldn't find a valid piston location",
+  "bedrockminer-master.msg.rotate_null": "§5[BedrockMiner]§f Direction to rotate was null (checks = %s)",
+  "bedrockminer-master.msg.pickaxe_not_found": "§5[BedrockMiner]§f Pickaxe has not been found!",
+  "bedrockminer-master.msg.no_pickaxe": "§5[BedrockMiner]§f No pickaxe found in inventory",
+  "bedrockminer-master.msg.no_efficiency_pickaxe": "§5[BedrockMiner]§f No pickaxe with Efficiency V found in inventory!",
+  "bedrockminer-master.msg.no_sticky_pistons": "§5[BedrockMiner]§f No sticky pistons found in inventory"
+}

@@ -1,0 +1,33 @@
+﻿{
+  "schemaVersion": 1,
+  "id": "bedrockminer-master",
+  "version": "${version}",
+  "name": "BedrockMiner-master",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/bedrockminer-master/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.qa602906.bedrockminerMaster.client.BedrockminerMasterClient"
+    ],
+    "main": [
+      "org.qa602906.bedrockminerMaster.BedrockminerMaster"
+    ]
+  },
+  "mixins": [
+    "bedrockminer-master.mixins.json",
+    {
+      "config": "bedrockminer-master.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21"
+  }
+}

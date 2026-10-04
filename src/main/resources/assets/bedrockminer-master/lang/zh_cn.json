@@ -1,0 +1,17 @@
+{
+  "key.category.bedrockminer-master.bedrockminer": "§5[BedrockMiner]",
+  "key.bedrockminer-master.toggle_miner": "BedrockMiner",
+
+  "bedrockminer-master.msg.toggle_on": "§5[BedrockMiner]§f 已开启",
+  "bedrockminer-master.msg.toggle_off": "§5[BedrockMiner]§f 已关闭",
+
+  "bedrockminer-master.msg.target_added": "§5[BedrockMiner]§f 已将 %s 加入目标方块列表",
+  "bedrockminer-master.msg.target_removed": "§5[BedrockMiner]§f 已将 %s 从目标方块列表移除",
+
+  "bedrockminer-master.msg.no_piston_location": "§5[BedrockMiner]§f 找不到可以放置活塞的位置",
+  "bedrockminer-master.msg.rotate_null": "§5[BedrockMiner]§f 转身方向为空（checks = %s）",
+  "bedrockminer-master.msg.pickaxe_not_found": "§5[BedrockMiner]§f 没有找到镐子！",
+  "bedrockminer-master.msg.no_pickaxe": "§5[BedrockMiner]§f 背包里没有镐子",
+  "bedrockminer-master.msg.no_efficiency_pickaxe": "§5[BedrockMiner]§f 背包里没有效率 V 的镐子！",
+  "bedrockminer-master.msg.no_sticky_pistons": "§5[BedrockMiner]§f 背包里没有粘性活塞"
+}
